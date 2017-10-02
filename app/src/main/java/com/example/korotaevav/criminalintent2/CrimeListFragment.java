@@ -1,0 +1,10 @@
+package com.example.korotaevav.criminalintent2;
+
+import android.app.Fragment;
+
+/**
+ * Created by korotaevav on 02.10.2017.
+ */
+
+public class CrimeListFragment extends Fragment {
+}
